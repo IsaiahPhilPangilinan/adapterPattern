@@ -17,3 +17,4 @@ You are developing an application that helps users manage and control various el
   * SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
  
 # Class Diagram
+![image](https://github.com/IsaiahPhilPangilinan/adapterPattern/assets/126074199/b0c05963-1ce7-414a-acef-e5dec789e9ff)
